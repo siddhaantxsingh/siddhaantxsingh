@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1565C0,75:6A1B9A,100:E65100&height=230&section=header&text=Siddhant%20Singh&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=I%20build%20systems%20from%20the%20transistor%20to%20the%20cloud&descSize=19&descAlignY=58&animation=fadeIn" alt="Siddhant Singh" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080F1C,40:14283B,75:16484A,100:284D50&height=230&section=header&text=Siddhant%20Singh&fontSize=64&fontColor=E8D5AD&fontAlignY=36&desc=I%20build%20systems%20from%20the%20transistor%20to%20the%20cloud&descSize=19&descAlignY=58&animation=fadeIn" alt="Siddhant Singh" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/siddhaantxsingh">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=Distributed+systems+%E2%80%A2+Raft+%E2%80%A2+LSM+trees+%E2%80%A2+CRDT%2FOT;LLM+inference+engines+in+Rust+%E2%80%A2+CUDA+tensor-core+kernels;RISC-V+cores+%E2%80%A2+systolic+arrays+%E2%80%A2+UVM+%E2%80%A2+sky130+GDSII;If+it+isn't+tested%2C+it+isn't+done.;23+repos.+Every+claim+has+a+test+behind+it." alt="What I build"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=8FC9C2&center=true&vCenter=true&width=760&lines=Distributed+systems+%E2%80%A2+Raft+%E2%80%A2+LSM+trees+%E2%80%A2+CRDT%2FOT;LLM+inference+engines+in+Rust+%E2%80%A2+CUDA+tensor-core+kernels;RISC-V+cores+%E2%80%A2+systolic+arrays+%E2%80%A2+UVM+%E2%80%A2+sky130+GDSII;If+it+isn't+tested%2C+it+isn't+done.;23+repos.+Every+claim+has+a+test+behind+it." alt="What I build"/>
   </a>
 </p>
 
@@ -21,44 +21,45 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddhaantxsingh&label=Profile%20views&color=6A1B9A&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/siddhaantxsingh?label=Followers&style=flat-square&color=1565C0&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Open_to-SDE_%2F_VLSI_%2F_ML--infra_roles-2E7D32?style=flat-square" alt="Open to roles"/>
+  <img src="https://komarev.com/ghpvc/?username=siddhaantxsingh&label=Profile%20views&color=657891&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/siddhaantxsingh?label=Followers&style=flat-square&color=316B73&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Open_to-SDE_%2F_VLSI_%2F_ML--infra_roles-316B73?style=flat-square" alt="Open to roles"/>
 </p>
 
 ---
 
-<!-- ═══════════════════════════  ABOUT — written as hardware  ═══════════════════════════ -->
+<!-- ═══════════════════════════  ABOUT — engineering signature  ═══════════════════════════ -->
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-### ⚡ `$ whoami`
+### Engineering signature
 
-```systemverilog
-module siddhant_singh #(
-  parameter string  SCHOOL  = "MIT Manipal",
-  parameter string  DEGREE  = "B.Tech ECE — VLSI Design & Technology",
-  parameter string  HOME    = "Jamshedpur, India",
-  parameter int     GRAD    = 2028
-)(
-  input  logic        clk,           // coffee
-  input  logic [7:0]  hard_problem,
-  output logic [63:0] shipped_system
-);
-  // software engineer who can also read a timing report
-  always_ff @(posedge clk) begin
-    if (hard_problem != '0)
-      shipped_system <= measure(fix(break_on_purpose(
-                          build(hard_problem))));
-  end
+<sub>SIDDHANT SINGH · SYSTEMS / AI / SILICON</sub>
 
-  // SVA: I don't claim what I haven't measured
-  assert property (@(posedge clk)
-    claim |-> ##[0:$] evidence);
-endmodule
-```
+### Curiosity across layers.<br/>Evidence at every one.
+
+From transistors to distributed systems, I build to understand what happens beneath the abstraction.
+
+**MIT Manipal** · B.Tech ECE<br/>
+VLSI Design &amp; Technology<br/>
+**Class of 2028** · Jamshedpur, India
+
+<br/>
+
+**01 &nbsp; BUILD**<br/>
+<sub>Start with the fundamentals. Understand the system.</sub>
+
+**02 &nbsp; CHALLENGE**<br/>
+<sub>Break it on purpose. Find the limits.</sub>
+
+**03 &nbsp; PROVE**<br/>
+<sub>Measure the result. Let the evidence speak.</sub>
+
+<br/>
+
+<sub><i>A software engineer who can also read a timing report.</i></sub>
 
 </td>
 <td width="45%" valign="top">
@@ -136,16 +137,16 @@ flowchart TB
     MESP ~~~ IE ~~~ EF
     PL ~~~ SY ~~~ ED ~~~ AC ~~~ SI
 
-    classDef si fill:#6A1B9A,stroke:#4A148C,color:#fff
-    classDef ac fill:#76B900,stroke:#4E7A00,color:#000
-    classDef sy fill:#1565C0,stroke:#0D47A1,color:#fff
-    classDef pl fill:#E65100,stroke:#BF360C,color:#fff
-    classDef ed fill:#00838F,stroke:#006064,color:#fff
-    style SI fill:transparent,stroke:#6A1B9A,stroke-dasharray:5 5
-    style AC fill:transparent,stroke:#76B900,stroke-dasharray:5 5
-    style SY fill:transparent,stroke:#1565C0,stroke-dasharray:5 5
-    style PL fill:transparent,stroke:#E65100,stroke-dasharray:5 5
-    style ED fill:transparent,stroke:#00838F,stroke-dasharray:5 5
+    classDef si fill:#27364C,stroke:#7285A1,color:#F1F5F9
+    classDef ac fill:#173F40,stroke:#7DB9AE,color:#F1F5F9
+    classDef sy fill:#1D354A,stroke:#7CA5C2,color:#F1F5F9
+    classDef pl fill:#3D3528,stroke:#C7AD7F,color:#F1F5F9
+    classDef ed fill:#223D43,stroke:#82B7BE,color:#F1F5F9
+    style SI fill:transparent,stroke:#7285A1
+    style AC fill:transparent,stroke:#7DB9AE
+    style SY fill:transparent,stroke:#7CA5C2
+    style PL fill:transparent,stroke:#C7AD7F
+    style ED fill:transparent,stroke:#82B7BE
 ```
 
 ---
@@ -229,17 +230,17 @@ flowchart TB
 ## ⚔️ Competitive programming
 
 <p align="center">
-  <a href="https://leetcode.com/u/LEETCODE_USERNAME/">
-    <img src="https://leetcard.jacoblin.cool/LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=12" alt="LeetCode stats" width="49%"/>
+  <a href="https://leetcode.com/u/siddhaantxsingh/">
+    <img src="https://leetcard.jacoblin.cool/siddhaantxsingh?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=12" alt="LeetCode stats" width="49%"/>
   </a>
-  <a href="https://codeforces.com/profile/CODEFORCES_HANDLE">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=CODEFORCES_HANDLE&theme=tokyonight&disable_animations=false&show_icons=true&force_username=true&border_color=00000000" alt="Codeforces stats" width="49%"/>
+  <a href="https://codeforces.com/profile/siddhaantxsingh">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=siddhaantxsingh&theme=tokyonight&disable_animations=false&show_icons=true&force_username=true&border_color=00000000" alt="Codeforces stats" width="49%"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/CODEFORCES_HANDLE"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DCODEFORCES_HANDLE&query=%24.result%5B0%5D.rating&label=Codeforces%20rating&logo=codeforces&color=1F8ACB&style=for-the-badge" alt="Codeforces rating (live)"/></a>
-  <a href="https://codeforces.com/profile/CODEFORCES_HANDLE"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DCODEFORCES_HANDLE&query=%24.result%5B0%5D.rank&label=rank&logo=codeforces&color=6A1B9A&style=for-the-badge" alt="Codeforces rank (live)"/></a>
+  <a href="https://codeforces.com/profile/siddhaantxsingh"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dsiddhaantxsingh&query=%24.result%5B0%5D.rating&label=Codeforces%20rating&logo=codeforces&color=1F8ACB&style=for-the-badge" alt="Codeforces rating (live)"/></a>
+  <a href="https://codeforces.com/profile/siddhaantxsingh"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dsiddhaantxsingh&query=%24.result%5B0%5D.rank&label=rank&logo=codeforces&color=657891&style=for-the-badge" alt="Codeforces rank (live)"/></a>
   <a href="HDLBITS_URL"><img src="https://img.shields.io/badge/HDLBits-Verilog_practice-8A2BE2?style=for-the-badge" alt="HDLBits"/></a>
 </p>
 
@@ -295,15 +296,15 @@ flowchart TB
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/LINKEDIN_SLUG/"><b>LinkedIn</b></a> ·
-  <a href="https://leetcode.com/u/LEETCODE_USERNAME/"><b>LeetCode</b></a> ·
-  <a href="https://codeforces.com/profile/CODEFORCES_HANDLE"><b>Codeforces</b></a> ·
-  <a href="https://www.codechef.com/users/CODECHEF_HANDLE"><b>CodeChef</b></a> ·
+  <a href="https://www.linkedin.com/in/siddhant-singh-7093a4330/"><b>LinkedIn</b></a> ·
+  <a href="https://leetcode.com/u/siddhaantxsingh/"><b>LeetCode</b></a> ·
+  <a href="https://codeforces.com/profile/siddhaantxsingh"><b>Codeforces</b></a> ·
+  <a href="https://www.codechef.com/users/siddhantxsingh"><b>CodeChef</b></a> ·
   <a href="HDLBITS_URL"><b>HDLBits</b></a> ·
   <a href="mailto:siddhaantxsingh@gmail.com"><b>Email</b></a> ·
   <a href="RESUME_URL"><b>Résumé</b></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E65100,35:6A1B9A,70:1565C0,100:0d1117&height=130&section=footer&text=From%20transistor%20to%20cloud.&fontSize=24&fontColor=ffffff&fontAlignY=68" alt="footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:284D50,35:16484A,70:14283B,100:080F1C&height=130&section=footer&text=From%20transistor%20to%20cloud.&fontSize=24&fontColor=E8D5AD&fontAlignY=68" alt="footer" width="100%"/>
 </p>
