@@ -11,10 +11,10 @@
 
 <!-- ═══════════════════════════  PROFILES (all clickable)  ═══════════════════════════ -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/LINKEDIN_SLUG/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://codeforces.com/profile/CODEFORCES_HANDLE"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  <a href="https://www.codechef.com/users/CODECHEF_HANDLE"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://www.linkedin.com/in/siddhant-singh-7093a4330/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/siddhaantxsingh/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/siddhaantxsingh"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://www.codechef.com/users/siddhantxsingh"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
   <a href="HDLBITS_URL"><img src="https://img.shields.io/badge/HDLBits-Verilog-8A2BE2?style=for-the-badge&logo=v&logoColor=white" alt="HDLBits"/></a>
   <a href="mailto:siddhaantxsingh@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="RESUME_URL"><img src="https://img.shields.io/badge/Résumé-PDF-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé"/></a>
