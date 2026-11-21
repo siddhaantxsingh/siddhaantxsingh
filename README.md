@@ -68,7 +68,7 @@ VLSI Design &amp; Technology<br/>
 
 - 🎓 **B.Tech ECE (VLSI)** at **MIT Manipal**
 - 🏭 **ML Intern @ Tata Steel** (Jun–Jul 2026)
-- 🧪 **Published research paper** → [read it](PAPER_URL)
+- 🧪 **Published research paper** → [read it](Research_paper.pdf)
 - 🏁 **Arm Bharat AI-SoC Challenge 2026–27** — team entry
 - 🔨 **23 tested systems** across SWE, AI infra and silicon
 - 🎯 Looking for **SDE / VLSI / ML-infra** internships & new-grad roles (2027)
